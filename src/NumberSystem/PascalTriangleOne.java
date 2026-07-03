@@ -63,9 +63,9 @@
 //        * Combinatorics
 //* Binomial Coefficients
 //* Iterative Computation
-package Arrays;
+package NumberSystem;
 
-public class PascalTriangle {
+public class PascalTriangleOne {
     public static void main(String[] args) {
         int row=6;
         int col=3;

@@ -6,7 +6,7 @@
 //
 //A Magic Number is a number that can be represented as the sum of unique powers of 5. The binary representation of N is used to determine which powers of 5 are included in the Magic Number.
 //
- // ## Example
+// ## Example
 //
 //Input:
 //N = 1
@@ -52,7 +52,7 @@
 //* Binary Representation
 //* Mathematics
 
-package Arrays;
+package NumberSystem;
 
 public class NthMagicNumber {
     public static void main(String[] args) {
